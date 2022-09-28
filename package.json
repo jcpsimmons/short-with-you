@@ -1,0 +1,26 @@
+{
+  "name": "short-with-you",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcpsimmons/short-with-you.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcpsimmons/short-with-you/issues"
+  },
+  "homepage": "https://github.com/jcpsimmons/short-with-you#readme",
+  "dependencies": {
+    "imap": "^0.8.19",
+    "mailparser": "^3.5.0",
+    "node-gmail-api": "^1.0.1",
+    "passport": "^0.6.0",
+    "passport-google-oauth": "^2.0.0"
+  }
+}
